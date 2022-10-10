@@ -20,10 +20,10 @@ function index({ref}) {
 
             <h2 className='title-infoArea'>Missão, Visão e Valores</h2>
             <p className='desc--empresa'>
-                Missão: Ser um time obstinado em prever e atender as necessidades dos clientes e consumidores sempre agregando valores.
+                Missão: Ser um time obstinado em prever e atender as necessidades dos clientes e consumidores.
             </p>
             <p className='desc--empresa'>
-               Visão: Ser a empresa líder em atender as necessidades dos clientes sempre agregando valores
+               Visão: Ser a empresa líder em atender as necessidades dos clientes.
             </p>
             <p className='desc--empresa'>
                Valores:  honestidade, respeito e dedicação.
