@@ -8,7 +8,7 @@ export default () => {
     return (
         <div className="footer">
             <section id="top">
-                    <p>Telefone - (11) 2351-9990</p>
+                    <p>Telefone - (11) 9899-7604</p>
                     <p>Email - dreamtrip@gmail.com</p>
                     <p>Endereço - Av Paulista, n°1000 São Paulo SP</p> 
             </section>
@@ -27,7 +27,7 @@ export default () => {
                 <article className="info-footer">
                     <h6>Segurança</h6>
                     <p>Termos e condições</p>
-                    <p>Politica de privacidade</p>
+                    <p>Política de privacidade</p>
                 </article>
                 <div className="social-media">
                     <a href={''}><img src={face} alt="" /></a>
