@@ -1,8 +1,6 @@
 import React from 'react';
 import './areaInfo.css'
 
-import cliente from '../../../assets/cliente.svg'
-
 function index({ref}) {
   return (
     <div className='area-informacoes' onClick={ref}>
