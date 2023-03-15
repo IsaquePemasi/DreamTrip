@@ -1,6 +1,6 @@
 <h1>DreamTrip</h1>
 <h2>A agência de viagens que você precisa!</h2>
-<img src= "/src/assets/home.png" alt = "home">
+<img src= "/src/assets/home.png" width= 100% alt = "home">
             <h2>Nossa Empresa</h2>
             <p>
                 Somos uma empresa com mais de 30 anos de mercado,
