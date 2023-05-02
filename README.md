@@ -1,24 +1,23 @@
 <h1>DreamTrip</h1>
-<h2>A agência de viagens que você precisa!</h2>
+<h2>The travel agency you need!</h2>
 <img src= "/src/assets/home.png" width= 100% alt = "home">
-            <h2>Nossa Empresa</h2>
+            <h2>Our company</h2>
             <p>
-                Somos uma empresa com mais de 30 anos de mercado,
-                temos os melhores preços para que você e sua família
-                façam aquela viagem dos sonhos.
+                We are a company with more than 30 years in the market,
+                we have the best prices for you and your family
+                take that dream trip.
             </p>
             <p>
-                Planejar uma viagem requer conhecimento, dedicação, confiança e paixão, 
-                para proporcionar a você uma experiência única e incomparável!
+                Planning a trip requires knowledge, dedication, confidence and passion,
+                to provide you with a unique and incomparable experience!
             </p>
-            <h2>Missão, Visão e Valores</h2>
+            <h2>Mission, vision and values</h2>
             <p>
-                Missão: Ser um time obstinado em prever e atender as necessidades dos clientes e consumidores.
-            </p>
-            <p>
-               Visão: Ser a empresa líder em atender as necessidades dos clientes.
+                Mission: To be a team obstinate in predicting and meeting the needs of customers and consumers.
             </p>
             <p>
-               Valores:  honestidade, respeito e dedicação.
+Mission: To be a team obstinate in predicting and meeting the needs of customers and consumers.            </p>
+            <p>
+               Values: honesty, respect and dedication.
             </p>
 <h2></h2>
