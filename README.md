@@ -21,3 +21,5 @@ Mission: To be a team obstinate in predicting and meeting the needs of customers
                Values: honesty, respect and dedication.
             </p>
 <h2></h2>
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
